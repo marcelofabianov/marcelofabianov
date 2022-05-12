@@ -3,7 +3,7 @@
 <p><em>Tech lead / Team Manager</em></p>
 
 ```javascript
-const me = {
+let me = {
     code: ["php", "Javascript", "Elixir"],
     technologies: {
         frontEnd: {

@@ -22,7 +22,8 @@ const me = {
     currentProject: "I'm working on converting a monolith to microservices",
     currentStudy: [
         "people": ["Studying team management"],
-        "code": ["Elixir", "Python"]
+        "code": ["Elixir", "Python"],
+        "specification": ["OpenAPI", "Semantic Version", "JSON API", "Gitflow"]
     ],
     hobby: "Hobby listening to podcast technology"
 };

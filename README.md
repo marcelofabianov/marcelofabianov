@@ -14,9 +14,9 @@ const me = {
             php: ["laravel", "symfony", "phpunit"]
             elixir: ["phoneix"]
         },
-        devOps: ["AWS", "Docker", "Nginx", "DigitalOcean", "Oracle Cloud"],
+        devOps: ["AWS", "Docker", "Nginx", "DigitalOcean", "Oracle Cloud", "Github Actions"],
         databases: ["Postgres", "MySql", "Oracle"],
-        misc: ["Github", "Scrum", "RabbitMQ"]
+        misc: ["Github", "Scrum", "RabbitMQ", "kafka"]
     },
     architecture: ["Microservices", "Single page applications", "Continuous integration"],
     currentProject: "I'm working on converting a monolith to microservices",

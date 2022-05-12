@@ -11,8 +11,9 @@ let me = {
             css: ["materialize", "bootstrap", "styled-component", "mui"]
         },
         backEnd: {
-            php: ["laravel", "symfony", "phpunit"]
-            elixir: ["phoneix"]
+            php: ["laravel", "symfony", "phpunit"],
+            elixir: ["phoneix"],
+            js: ["nestjs"]
         },
         devOps: ["AWS", "Docker", "Nginx", "DigitalOcean", "Oracle Cloud", "Github Actions"],
         databases: ["Postgres", "MySql", "Oracle"],
@@ -20,11 +21,11 @@ let me = {
     },
     architecture: ["Microservices", "Single page applications", "Continuous integration"],
     currentProject: "I'm working on converting a monolith to microservices",
-    currentStudy: [
+    currentStudy: {
         "people": ["Studying team management"],
         "code": ["Elixir", "Python"],
         "specification": ["OpenAPI", "Semantic Version", "JSON API", "Gitflow"]
-    ],
+    },
     hobby: "Hobby listening to podcast technology"
 };
 ```

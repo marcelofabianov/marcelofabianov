@@ -1,30 +1,28 @@
 <h2>I'm Marcelo!</h2>
 
-<p><em>Tech lead / Team Manager</em></p>
+<p><em>Tech lead</em></p>
 
 ```javascript
 let me = {
-    code: ["php", "Javascript", "Elixir"],
+    code: ["php", "Typescript", "Elixir"],
     technologies: {
         frontEnd: {
-            js: ["React", "Nextjs", "Vue", "Nuxtjs"],
-            css: ["materialize", "bootstrap", "styled-component", "mui"]
+            js: ["React", "Nextjs"],
+            css: ["bootstrap", "styled-component", "mui"]
         },
         backEnd: {
-            php: ["laravel", "symfony", "phpunit"],
+            php: ["laravel", "symfony"],
             elixir: ["phoneix"],
-            js: ["nestjs"]
+            node: ["nestjs"]
         },
-        devOps: ["AWS", "Docker", "Nginx", "DigitalOcean", "Oracle Cloud", "Github Actions"],
+        devOps: ["AWS", "Docker", "Kubernetes", "Nginx", "DigitalOcean", "Oracle Cloud", "Github Actions"],
         databases: ["Postgres", "MySql", "Oracle"],
         misc: ["Github", "Scrum", "RabbitMQ", "kafka"]
     },
-    architecture: ["Microservices", "Single page applications", "Continuous integration"],
+    architecture: ["Microservices", "SPA", "CI/CD", "Clear Architecture", "Clean code"],
     currentProject: "I'm working on converting a monolith to microservices",
     currentStudy: {
-        "people": ["Studying team management"],
-        "code": ["Elixir", "Python"],
-        "specification": ["OpenAPI", "Semantic Version", "JSON API", "Gitflow"]
+        "code": ["Elixir", "Go"]
     },
     hobby: "Hobby listening to podcast technology"
 };

@@ -21,9 +21,11 @@ let me = {
     },
     architecture: ["Microservices", "SPA", "CI/CD", "Clear Architecture", "Clean code"],
     currentProject: "I'm working on converting a monolith to microservices",
-    currentStudy: {
-        "code": ["Elixir", "Go"]
-    },
+    currentStudy: [
+        "BDD", "DDD", "Elixir", "Go"
+    ],
     hobby: "Hobby listening to podcast technology"
 };
+
+console.log(me);
 ```

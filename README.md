@@ -4,7 +4,7 @@
 
 ```javascript
 let me = {
-    code: ["php", "Typescript", "Elixir"],
+    code: ["php", "Typescript", "Go"],
     technologies: {
         frontEnd: {
             js: ["React", "Nextjs"],
@@ -17,12 +17,12 @@ let me = {
         },
         devOps: ["AWS", "Docker", "Kubernetes", "Nginx", "DigitalOcean", "Oracle Cloud", "Github Actions"],
         databases: ["Postgres", "MySql", "Oracle"],
-        misc: ["Github", "Scrum", "RabbitMQ", "kafka"]
+        misc: ["Github", "Scrum", "RabbitMQ"]
     },
     architecture: ["Microservices", "SPA", "CI/CD", "Clear Architecture", "Clean code"],
     currentProject: "I'm working on converting a monolith to microservices",
     currentStudy: [
-        "BDD", "DDD", "Elixir", "Go"
+        "TDD", "BDD", "DDD", "Elixir", "Go", "Python"
     ],
     hobby: "Hobby listening to podcast technology"
 };

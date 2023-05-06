@@ -3,6 +3,8 @@
 <p><em>Tech lead</em></p>
 
 ```javascript
+// https://www.linkedin.com/in/marcelofabianov/
+
 let me = {
     code: ["php", "Typescript", "Go"],
     technologies: {
@@ -15,7 +17,7 @@ let me = {
             elixir: ["phoneix"],
             node: ["nestjs"]
         },
-        devOps: ["AWS", "Docker", "Kubernetes", "Nginx", "DigitalOcean", "Oracle Cloud", "Github Actions"],
+        devOps: ["AWS", "Docker", "Kubernetes", "Nginx", "DigitalOcean", "GCP", "Github Actions"],
         databases: ["Postgres", "MySql", "Oracle"],
         misc: ["Github", "Scrum", "RabbitMQ"]
     },

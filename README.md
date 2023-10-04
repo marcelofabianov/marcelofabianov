@@ -1,7 +1,5 @@
 <h2>I'm Marcelo!</h2>
 
-<p><em>Tech lead</em></p>
-
 ```javascript
 // https://www.linkedin.com/in/marcelofabianov/
 

@@ -4,25 +4,24 @@
 // https://www.linkedin.com/in/marcelofabianov/
 
 let me = {
-    code: ["php", "Typescript", "Go"],
+    code: ["php", "JS/TS", "Rust", "C#"],
     technologies: {
         frontEnd: {
             js: ["React", "Nextjs"],
-            css: ["bootstrap", "styled-component", "mui"]
+            css: ["bootstrap", "styled-component", "mui", "tailwindcss"]
         },
         backEnd: {
-            php: ["laravel", "symfony"],
-            elixir: ["phoneix"],
-            node: ["nestjs"]
+            php: ["laravel", "symfony", "hiperf"],
+            ts-js: ["nestjs", "nodejs"],
+            rust: ["rocket"]
         },
-        devOps: ["AWS", "Docker", "Kubernetes", "Nginx", "DigitalOcean", "GCP", "Github Actions"],
-        databases: ["Postgres", "MySql", "Oracle"],
-        misc: ["Github", "Scrum", "RabbitMQ"]
+        devOps: ["Docker", "Kubernetes", "Nginx", "DigitalOcean", "GCP", "Github Actions"],
+        databases: ["Postgres", "MySql", "Oracle", "SQLServer"],
+        misc: ["RabbitMQ", "ElasticStack", "Elasticsearch"]
     },
-    architecture: ["Microservices", "SPA", "CI/CD", "Clear Architecture", "Clean code"],
-    currentProject: "I'm working on converting a monolith to microservices",
+    architecture: ["Microservices", "Clear Architecture", "Clean code", "Ports and Adapters"],
     currentStudy: [
-        "TDD", "BDD", "DDD", "Elixir", "Go", "Python"
+        "TDD", "BDD", "DDD", "Rust", "C# .NET"
     ],
     hobby: "Hobby listening to podcast technology"
 };

@@ -4,7 +4,7 @@
 // https://www.linkedin.com/in/marcelofabianov/
 
 let me = {
-    code: ["php", "JS/TS", "Rust", "C#"],
+    code: ["php", "javascript", "Rust", "C#"],
     technologies: {
         frontEnd: {
             js: ["React", "Nextjs"],
@@ -12,7 +12,7 @@ let me = {
         },
         backEnd: {
             php: ["laravel", "symfony", "hiperf"],
-            ts-js: ["nestjs", "nodejs"],
+            javascript: ["nestjs", "nodejs"],
             rust: ["rocket"]
         },
         devOps: ["Docker", "Kubernetes", "Nginx", "DigitalOcean", "GCP", "Github Actions"],

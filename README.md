@@ -15,14 +15,13 @@ let me = {
             javascript: ["nestjs", "nodejs"],
             rust: ["rocket"]
         },
-        devOps: ["Docker", "Kubernetes", "Nginx", "DigitalOcean", "GCP", "Github Actions"],
+        devOps: ["Docker", "Kubernetes", "Nginx", "DigitalOcean", "GCP", "Github Actions", "Linux"],
         databases: ["Postgres", "MySql", "Oracle", "SQLServer"],
         misc: ["RabbitMQ", "ElasticStack", "Elasticsearch"]
     },
     architecture: ["Microservices", "Clear Architecture", "Clean code", "Ports and Adapters"],
-    currentStudy: [
-        "TDD", "BDD", "DDD", "Rust", "C# .NET"
-    ],
+    softwareDevelopment: ["TDD", "DDD"],
+    currentStudy: ["Rust", "C# .NET", "Prometheus", "Grafana"],
     hobby: "Hobby listening to podcast technology"
 };
 

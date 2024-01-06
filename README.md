@@ -4,16 +4,15 @@
 // https://www.linkedin.com/in/marcelofabianov/
 
 let me = {
-    code: ["php", "javascript", "Rust", "C#"],
+    code: ["php", "js", "Rust", "Go"],
     technologies: {
         frontEnd: {
             js: ["React", "Nextjs"],
-            css: ["bootstrap", "styled-component", "mui", "tailwindcss"]
+            css: ["bootstrap", "styled-component", "tailwindcss"]
         },
         backEnd: {
-            php: ["laravel", "symfony", "hiperf"],
-            javascript: ["nestjs", "nodejs"],
-            rust: ["rocket"]
+            php: ["laravel", "symfony"],
+            javascript: ["nestjs", "nodejs"]
         },
         devOps: ["Docker", "Kubernetes", "Nginx", "DigitalOcean", "GCP", "Github Actions", "Linux"],
         databases: ["Postgres", "MySql", "Oracle", "SQLServer"],
@@ -21,8 +20,7 @@ let me = {
     },
     architecture: ["Microservices", "Clear Architecture", "Clean code", "Ports and Adapters"],
     softwareDevelopment: ["TDD", "DDD"],
-    currentStudy: ["Rust", "C# .NET", "Prometheus", "Grafana"],
-    hobby: "Hobby listening to podcast technology"
+    currentStudy: ["Rust", "Prometheus", "Grafana", "Rust", "Go"]
 };
 
 console.log(me);

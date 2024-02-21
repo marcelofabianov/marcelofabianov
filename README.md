@@ -1,27 +1,26 @@
-<h2>I'm Marcelo!</h2>
+# Marcelo Fabiano
+
+[LinkedIn](https://www.linkedin.com/in/marcelofabianov/)
 
 ```javascript
-// https://www.linkedin.com/in/marcelofabianov/
-
 let me = {
     code: ["php", "js", "Rust", "Go"],
     technologies: {
         frontEnd: {
-            js: ["React", "Nextjs"],
-            css: ["bootstrap", "styled-component", "tailwindcss"]
+            js: ["React", "Next.js"],
+            css: ["Bootstrap", "Styled Components", "Tailwind CSS"]
         },
         backEnd: {
-            php: ["laravel", "symfony"],
-            javascript: ["nestjs", "nodejs"]
+            php: ["Laravel", "Symfony"],
+            javascript: ["NestJS", "Node.js"]
         },
         devOps: ["Docker", "Kubernetes", "Nginx", "DigitalOcean", "GCP", "Github Actions", "Linux"],
-        databases: ["Postgres", "MySql", "Oracle", "SQLServer"],
-        misc: ["RabbitMQ", "ElasticStack", "Elasticsearch"]
+        databases: ["PostgreSQL", "MySQL", "Oracle", "SQL Server"],
+        misc: ["RabbitMQ", "Elastic Stack", "Elasticsearch"]
     },
-    architecture: ["Microservices", "Clear Architecture", "Clean code", "Ports and Adapters"],
+    architecture: ["Microservices", "Clean Architecture", "Clean Code", "Ports and Adapters"],
     softwareDevelopment: ["TDD", "DDD"],
     currentStudy: ["Rust", "Go"]
 };
 
 console.log(me);
-```

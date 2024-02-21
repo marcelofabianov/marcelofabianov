@@ -20,7 +20,7 @@ let me = {
     },
     architecture: ["Microservices", "Clear Architecture", "Clean code", "Ports and Adapters"],
     softwareDevelopment: ["TDD", "DDD"],
-    currentStudy: ["Rust", "Rust", "Go"]
+    currentStudy: ["Rust", "Go"]
 };
 
 console.log(me);

@@ -7,20 +7,26 @@ let me = {
     code: ["php", "js", "Rust", "Go"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Bootstrap", "Styled Components", "Tailwind CSS"]
+            js: ["React", "Next.js", "Vue.js", "JQuery"],
+            css: ["Bootstrap", "Styled Components", "Tailwind CSS", "MaterialUI"]
         },
         backEnd: {
             php: ["Laravel", "Symfony"],
-            javascript: ["NestJS", "Node.js"]
+            javascript: ["NestJS", "Node.js", "Typescript"],
+            go: ["Golang", "Gin", "Echo", "Fiber"],
+            rust: ["Rust", "Actix", "Tokio", "SQLx", "Diesel"]
         },
-        devOps: ["Docker", "Kubernetes", "Nginx", "DigitalOcean", "GCP", "Github Actions", "Linux"],
-        databases: ["PostgreSQL", "MySQL", "Oracle", "SQL Server"],
-        misc: ["RabbitMQ", "Elastic Stack", "Elasticsearch"]
+        devOps: ["Docker", "Kubernetes", "Nginx", "DigitalOcean", "GCP", "AWS", "Github Actions", "Linux"],
+        databases: ["PostgreSQL", "MySQL", "MongoDB", "Neo4j"],
+        misc: {
+            messaging: ["RabbitMQ", "Kafka", "GCP Pub/Sub"],
+            loggingMonitoring: ["Elastic Stack", "Elasticsearch", "Observability", "OpenTelemetry", "Tracing"],
+            authenticationAuthorization: ["OAuth", "JWT"]
+        },
+        architecture: ["Microservices", "Clean Architecture", "Hexagonal Architecture", "Clean Code", "TDD", "DDD", "EAD"],
+        currentStudy: ["Microservices", "Observability", "OpenTelemetry", "Tracing"]
     },
-    architecture: ["Microservices", "Clean Architecture", "Clean Code", "Ports and Adapters"],
-    softwareDevelopment: ["TDD", "DDD"],
-    currentStudy: ["Rust", "Go", "MongoDB"]
 };
 
 console.log(me);
+```

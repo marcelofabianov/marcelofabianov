@@ -18,11 +18,9 @@ let me = {
         },
         devOps: ["Docker", "Kubernetes", "Nginx", "DigitalOcean", "GCP", "AWS", "Github Actions", "Linux"],
         databases: ["PostgreSQL", "MySQL", "MongoDB", "Neo4j"],
-        misc: {
-            messaging: ["RabbitMQ", "Kafka", "GCP Pub/Sub"],
-            loggingMonitoring: ["Elastic Stack", "Elasticsearch", "Observability", "OpenTelemetry", "Tracing"],
-            authenticationAuthorization: ["OAuth", "JWT"]
-        },
+        messaging: ["RabbitMQ", "Kafka", "GCP Pub/Sub"],
+        loggingMonitoring: ["Elastic Stack", "Elasticsearch", "Observability", "OpenTelemetry", "Tracing"],
+        authenticationAuthorization: ["OAuth", "JWT"],
         architecture: ["Microservices", "Clean Architecture", "Hexagonal Architecture", "Clean Code", "TDD", "DDD", "EAD"],
         currentStudy: ["Microservices", "Observability", "OpenTelemetry", "Tracing"]
     },

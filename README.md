@@ -16,7 +16,7 @@ let me = {
             go: ["Golang", "Gin", "Echo", "Fiber"],
             rust: ["Rust", "Actix", "Tokio", "SQLx", "Diesel"]
         },
-        devOps: ["Docker", "Kubernetes", "Nginx", "DigitalOcean", "GCP", "AWS", "Github Actions", "Linux"],
+        devOps: ["Docker", "Nginx", "DigitalOcean", "GCP", "AWS", "Github Actions", "Linux"],
         databases: ["PostgreSQL", "MySQL", "MongoDB", "Neo4j"],
         messaging: ["RabbitMQ", "Kafka", "GCP Pub/Sub"],
         loggingMonitoring: ["Elastic Stack", "Elasticsearch", "Observability", "OpenTelemetry", "Tracing"],
